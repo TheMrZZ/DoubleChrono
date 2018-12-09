@@ -1,0 +1,13 @@
+body {
+    background-color: #1A1A1A;
+    color: #E5E5E5;
+}
+
+.big-font {
+    font-size: 500%;
+}
+
+.big-btn {
+    width: 180px;
+    height: 80px;
+}
